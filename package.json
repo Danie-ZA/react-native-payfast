@@ -1,6 +1,6 @@
 {
-  "name": "payfast",
-  "version": "1.0.0",
+  "name": "react-native-payfast",
+  "version": "1.0.1",
   "description": "A component to integrate with PayFast via a webview/API calls",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "gateway"
   ],
   "author": "Daniel Cilliers",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Danie-ZA/react-native-payfast/issues"
   },
