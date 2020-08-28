@@ -1,0 +1,30 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "A component to integrate with PayFast via a webview/API calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danie-ZA/react-native-payfast.git"
+  },
+  "keywords": [
+    "PayFast",
+    "react-native",
+    "react",
+    "native",
+    "payment",
+    "gateway"
+  ],
+  "author": "Daniel Cilliers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danie-ZA/react-native-payfast/issues"
+  },
+  "homepage": "https://github.com/Danie-ZA/react-native-payfast#readme",
+  "dependencies": {
+    "react-native-webview": "^10.8.2"
+  }
+}
