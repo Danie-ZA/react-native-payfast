@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="91b8860a-b92e-4038-8af7-ab372828a124" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +38,18 @@
       <option name="presentableId" value="Default" />
       <updated>1598613173882</updated>
       <workItem from="1598613174935" duration="3840000" />
-      <workItem from="1598620554766" duration="1698000" />
+      <workItem from="1598620554766" duration="3180000" />
+      <workItem from="1599226880679" duration="1802000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2223" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1599228566065">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2223" y="237" width="672" height="678" key="search.everywhere.popup/0.27.1600.873/1600.0.1920.1080/3520.0.1920.1080@1600.0.1920.1080" timestamp="1599228566065" />
   </component>
 </project>
